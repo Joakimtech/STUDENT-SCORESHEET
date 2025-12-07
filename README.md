@@ -17,28 +17,28 @@ This project demonstrates how core Java concepts (variables, conditionals, loops
 
 ## **Project Overview**
 
-This Java application allows the user to enter academic records for **12 or more students**.
+**This Java application allows the user to enter academic records for**12 or more students.
 It processes the raw mark inputs and generates:
-  * Individual student total marks
-  * Subject-level statistics
-  * Class-wide performance distribution
-  * Grade ranking based on total score
+* Individual student total marks
+* Subject-level statistics
+* Class-wide performance distribution
+* Grade ranking based on total score
 
- **Computes automatically **
-   **Total Marks per student**
-   **Average Marks per student**
-   **Grade per student** (based on defined grading scale)
-  **Counts how many students scored each grade**:
+ **Computes automatically**
+   *Total Marks per student
+   *Average Marks per student
+   *Grade per student* (based on defined grading scale)
+  *Counts how many students scored each grade:
 
-✔ Ranks students based on **total marks**
+* Ranks students based on **total marks**
 
 # **Below is the Grading Criteria used**
 
-**Grade A** if the Total marks ≥ 540.
-**Grade B** if the Total marks ≥ 480 and < 540.
-**Grade C** if the Total marks ≥ 420 and < 480.
-**Grade D** if the Total marks ≥ 360 and < 420.
-**Grade F** if the Total marks < 360.
+ * **Grade A** if the Total marks ≥ 540.
+ * **Grade B** if the Total marks ≥ 480 and < 540.
+ * **Grade C** if the Total marks ≥ 420 and < 480.
+ * **Grade D** if the Total marks ≥ 360 and < 420.
+ * **Grade F** if the Total marks < 360.
 
 ## **Class Statistics Generated**
 
@@ -60,6 +60,6 @@ The program automatically computes:
 * **Conditionals** for grade classification
 * **Console formatting** using System.out.println()
 
-* BELOW IS THE OUTPUT OF THE PROGRAM OUTPUTS THE COMPUTED RESULTS IN A NEAT FORMATTED TABLE
+* BELOW IS THE OUTPUT OF THE PROGRAM THAT SHOW THE  COMPUTED RESULTS IN A NEAT FORMATTED TABLE
    *<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/ed13d14d-1243-42b3-b1d1-6ddb2c00da5f" />
  

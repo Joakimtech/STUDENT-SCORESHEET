@@ -54,12 +54,12 @@ The program automatically computes:
 
  **Technologies Used**
 
-* **Java 17+**
 * **Scanner class** for user input
 * **Arrays and loops** for data processing
 * **Conditionals** for grade classification
 * **Console formatting** using System.out.println()
 
 * BELOW IS THE OUTPUT OF THE PROGRAM THAT SHOW THE  COMPUTED RESULTS IN A NEAT FORMATTED TABLE
-   *<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/ed13d14d-1243-42b3-b1d1-6ddb2c00da5f" />
+   *<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/74e68d63-0e5e-4819-9e60-51f7688db761" />
+
  
